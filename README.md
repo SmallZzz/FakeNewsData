@@ -4,7 +4,6 @@ Fake news detection dataset
 **COVID-19.csv**
 
 This data set is composed of two parts A and B. 
-
 Part A is the Checked dataset, which  is available at https://github.com/cyang03/CHECKED. From December 2019 to August 2020, CHECKED has 2,120 pieces of blogs including 344 being “Fake” and 1776 being “Real”. 
 Part B is also qualified for obtaining from Tencent fact check platform.Those 718 pieces of data were added to prevent overfitting caused by the extreme shortage of dataset.
 A total of 2,838 pieces of data were combined, including 883 pieces of fake news and 1,955 pieces of true news.
