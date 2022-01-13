@@ -1,6 +1,6 @@
 # FakeNewsData
 Fake news detection dataset
-
+When used, you can reshuffle the data set to better train the model.
 **COVID-19.csv**
 
 This data set is composed of two parts A and B. 
